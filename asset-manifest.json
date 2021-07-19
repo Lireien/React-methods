@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/React-methods/static/css/main.abb28eef.chunk.css",
+    "main.js": "/React-methods/static/js/main.5dbe9a17.chunk.js",
+    "main.js.map": "/React-methods/static/js/main.5dbe9a17.chunk.js.map",
+    "runtime-main.js": "/React-methods/static/js/runtime-main.de73fb27.js",
+    "runtime-main.js.map": "/React-methods/static/js/runtime-main.de73fb27.js.map",
+    "static/js/2.e38656bf.chunk.js": "/React-methods/static/js/2.e38656bf.chunk.js",
+    "static/js/2.e38656bf.chunk.js.map": "/React-methods/static/js/2.e38656bf.chunk.js.map",
+    "static/js/3.9b31a201.chunk.js": "/React-methods/static/js/3.9b31a201.chunk.js",
+    "static/js/3.9b31a201.chunk.js.map": "/React-methods/static/js/3.9b31a201.chunk.js.map",
+    "index.html": "/React-methods/index.html",
+    "static/css/main.abb28eef.chunk.css.map": "/React-methods/static/css/main.abb28eef.chunk.css.map",
+    "static/js/2.e38656bf.chunk.js.LICENSE.txt": "/React-methods/static/js/2.e38656bf.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/React-methods/static/media/Orbitron-Regular.782e6861.ttf",
+    "static/media/logo.6ce24c58.svg": "/React-methods/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.de73fb27.js",
+    "static/js/2.e38656bf.chunk.js",
+    "static/css/main.abb28eef.chunk.css",
+    "static/js/main.5dbe9a17.chunk.js"
+  ]
+}
