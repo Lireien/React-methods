@@ -1,0 +1,47 @@
+.Methods {
+  text-align: center;
+  height: 100vh;
+  width: 100vw;
+  overflow-x: hidden;
+  overflow-y: scroll;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  position: relative;
+
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@font-face {
+  font-family: 'Orbitron';
+  src: local('Orbitron'), url(./Fonts/Orbitron-Regular.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Orbitron';
+  font-weight: 500;
+  src: local('Orbitron'), url(./Fonts/Orbitron-Medium.ttf) format('trutype');}
+
+@font-face {
+  font-family: 'Orbitron';
+  font-weight: 700;
+  src: local('Orbitron'), url(./Fonts/Orbitron-Bold.ttf) format('trutype');}
+
+@font-face {
+  font-family: 'Orbitron';
+  font-weight: 700;
+  src: local('Orbitron'), url(./Fonts/Orbitron-Black.ttf) format('trutype');}
