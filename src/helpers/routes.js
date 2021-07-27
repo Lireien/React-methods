@@ -1,9 +1,7 @@
 export const LINK_PATH = {
-  game: "/game",
-  test: "/tests/:id",
-  home: "/",
-  methods: "/methods",
-  method: "/method/:name",
-  counter: "/counter",
-  login: '/login',
+  game: "/React-methods/game",
+  home: "/React-methods/",
+  methods: "/React-methods/methods",
+  counter: "/React-methods/counter",
+  login: '/React-methods/login',
 };

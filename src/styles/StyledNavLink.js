@@ -4,9 +4,9 @@ import { NavLink } from "react-router-dom";
 const activeClassName = "nav-item-active";
 
 const StyledNavLink = styled(NavLink).attrs({ activeClassName })`
-  margin: 5px;
+  margin: 3px;
   text-decoration: none;
-  font-family: Orbitron, Serif;
+  font-family: Orbitron, sans-serif;
   font-weight: 500;
   font-size: 1em;
   color: ${(props) => props.theme.linkColors};
